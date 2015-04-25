@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to know about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Apurva Shah. I have the following qualities:
 
-- I rock a great mustache
+- I am learning programming
 - I'm extremely loyal to my family
+- I know you would like to meet me
 
 What else do you need?
 
